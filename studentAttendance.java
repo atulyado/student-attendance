@@ -20,6 +20,6 @@ class Solution {
                     latestreak = 0;//and here it reset the streak cause we need Three consecutive days
             }
         }
-        return true;
+        return true;//here return true if the are not met
         }
     }
